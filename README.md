@@ -1,0 +1,2 @@
+# HackerrankAlgorithmSolutions
+Problem solving
